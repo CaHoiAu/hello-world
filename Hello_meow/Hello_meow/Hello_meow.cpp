@@ -7,7 +7,7 @@ int main()
 {
     int n;
     std::cin >> n;
-    std::cout << "Hello Minhu\n";
+    std::cout << "Hello Trasua\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
